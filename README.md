@@ -1,0 +1,2 @@
+# mqlib
+MacroQuest Helper Library
